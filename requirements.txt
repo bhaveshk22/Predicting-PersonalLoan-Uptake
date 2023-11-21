@@ -1,0 +1,8 @@
+Numpy
+Pandas
+Matplotlib.pyplot
+Seaborn
+Sklearn
+LogisticRegression
+KNeighborsClassifier
+Naive-Bayes: GaussianNB
