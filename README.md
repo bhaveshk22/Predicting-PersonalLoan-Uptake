@@ -17,7 +17,7 @@ This repository contains a Machine Learning model that predicts whether a person
 
 ## Lessons Learned
 
-This project was an exciting opportunity to apply machine learning concepts to a practical problem in the construction industry. It was particularly interesting to see how different algorithms performed on the same task and how model performance can be optimized.
+This project was a great opportunity to apply machine learning concepts to a real-world problem in the banking sector. It was particularly interesting to see how different algorithms performed on the same task and how model performance can be optimized.
 
 I’m looking forward to exploring more ways to leverage machine learning in the future.
 
